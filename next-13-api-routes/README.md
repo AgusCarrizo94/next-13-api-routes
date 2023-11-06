@@ -1,5 +1,5 @@
 # next-13-api-routes
-Example app to practice how to use Next.js 13 API Routes functionality
+Example app to practice how to use Next.js 13 API Routes feature
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
